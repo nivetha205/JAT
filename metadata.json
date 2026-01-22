@@ -1,0 +1,7 @@
+{
+  "name": "Job Application Tracker (JAT)",
+  "description": "A comprehensive tool for job seekers to track their application pipeline, manage contacts, and leverage AI for interview preparation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
